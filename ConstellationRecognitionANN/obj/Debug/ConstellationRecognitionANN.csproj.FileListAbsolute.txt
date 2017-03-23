@@ -1,0 +1,26 @@
+C:\Users\KURL\documents\visual studio 2013\Projects\ConstellationRecognitionANN\ConstellationRecognitionANN\bin\Debug\ConstellationRecognitionANN.exe.config
+C:\Users\KURL\documents\visual studio 2013\Projects\ConstellationRecognitionANN\ConstellationRecognitionANN\bin\Debug\ConstellationRecognitionANN.exe
+C:\Users\KURL\documents\visual studio 2013\Projects\ConstellationRecognitionANN\ConstellationRecognitionANN\bin\Debug\ConstellationRecognitionANN.pdb
+C:\Users\KURL\documents\visual studio 2013\Projects\ConstellationRecognitionANN\ConstellationRecognitionANN\obj\Debug\ConstellationRecognitionANN.ArtificialNeuralNetworkForm.resources
+C:\Users\KURL\documents\visual studio 2013\Projects\ConstellationRecognitionANN\ConstellationRecognitionANN\obj\Debug\ConstellationRecognitionANN.Properties.Resources.resources
+C:\Users\KURL\documents\visual studio 2013\Projects\ConstellationRecognitionANN\ConstellationRecognitionANN\obj\Debug\ConstellationRecognitionANN.csproj.GenerateResource.Cache
+C:\Users\KURL\documents\visual studio 2013\Projects\ConstellationRecognitionANN\ConstellationRecognitionANN\obj\Debug\ConstellationRecognitionANN.exe
+C:\Users\KURL\documents\visual studio 2013\Projects\ConstellationRecognitionANN\ConstellationRecognitionANN\obj\Debug\ConstellationRecognitionANN.pdb
+C:\Users\KURL\Documents\Visual Studio 2013\Projects\ConstellationRecognitionANN\ConstellationRecognitionANN\obj\Debug\ConstellationRecognitionANN.csprojResolveAssemblyReference.cache
+C:\Users\CyrilJohn\New folder\workspace\db\Desktop\cxc\ConstellationRecognitionANN\ConstellationRecognitionANN\bin\Debug\ConstellationRecognitionANN.exe.config
+C:\Users\CyrilJohn\New folder\workspace\db\Desktop\cxc\ConstellationRecognitionANN\ConstellationRecognitionANN\obj\Debug\ConstellationRecognitionANN.exe
+C:\Users\CyrilJohn\New folder\workspace\db\Desktop\cxc\ConstellationRecognitionANN\ConstellationRecognitionANN\obj\Debug\ConstellationRecognitionANN.pdb
+C:\Users\CyrilJohn\New folder\workspace\db\Desktop\cxc\ConstellationRecognitionANN\ConstellationRecognitionANN\bin\Debug\ConstellationRecognitionANN.exe
+C:\Users\CyrilJohn\New folder\workspace\db\Desktop\cxc\ConstellationRecognitionANN\ConstellationRecognitionANN\bin\Debug\ConstellationRecognitionANN.pdb
+C:\Users\CyrilJohn\New folder\workspace\db\Desktop\cxc\ConstellationRecognitionANN\ConstellationRecognitionANN\obj\Debug\ConstellationRecognitionANN.csprojResolveAssemblyReference.cache
+C:\Users\CyrilJohn\New folder\workspace\db\Desktop\cxc\ConstellationRecognitionANN\ConstellationRecognitionANN\obj\Debug\ConstellationRecognitionANN.ArtificialNeuralNetworkForm.resources
+C:\Users\CyrilJohn\New folder\workspace\db\Desktop\cxc\ConstellationRecognitionANN\ConstellationRecognitionANN\obj\Debug\ConstellationRecognitionANN.Properties.Resources.resources
+C:\Users\CyrilJohn\New folder\workspace\db\Desktop\cxc\ConstellationRecognitionANN\ConstellationRecognitionANN\obj\Debug\ConstellationRecognitionANN.csproj.GenerateResource.Cache
+C:\Users\KURL\Downloads\Compressed\ANN Proj\cxc\ConstellationRecognitionANN\ConstellationRecognitionANN\bin\Debug\ConstellationRecognitionANN.exe.config
+C:\Users\KURL\Downloads\Compressed\ANN Proj\cxc\ConstellationRecognitionANN\ConstellationRecognitionANN\bin\Debug\ConstellationRecognitionANN.exe
+C:\Users\KURL\Downloads\Compressed\ANN Proj\cxc\ConstellationRecognitionANN\ConstellationRecognitionANN\bin\Debug\ConstellationRecognitionANN.pdb
+C:\Users\KURL\Downloads\Compressed\ANN Proj\cxc\ConstellationRecognitionANN\ConstellationRecognitionANN\obj\Debug\ConstellationRecognitionANN.ArtificialNeuralNetworkForm.resources
+C:\Users\KURL\Downloads\Compressed\ANN Proj\cxc\ConstellationRecognitionANN\ConstellationRecognitionANN\obj\Debug\ConstellationRecognitionANN.Properties.Resources.resources
+C:\Users\KURL\Downloads\Compressed\ANN Proj\cxc\ConstellationRecognitionANN\ConstellationRecognitionANN\obj\Debug\ConstellationRecognitionANN.csproj.GenerateResource.Cache
+C:\Users\KURL\Downloads\Compressed\ANN Proj\cxc\ConstellationRecognitionANN\ConstellationRecognitionANN\obj\Debug\ConstellationRecognitionANN.exe
+C:\Users\KURL\Downloads\Compressed\ANN Proj\cxc\ConstellationRecognitionANN\ConstellationRecognitionANN\obj\Debug\ConstellationRecognitionANN.pdb
