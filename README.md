@@ -15,7 +15,7 @@
 - Training images is limited to only 2 because it becomes accurate when it is greated than two. I still can't see why, what and debug have I done. I can't understand how to represent the output well. Haha.
 
 **Screenshots**
-![alt tag](https://github.com/kurlp00/Constellation-Recognition-using-Artificial-Recognition/blob/master/screenshots/a.png)
 
+![alt tag](https://github.com/kurlp00/Constellation-Recognition-using-Artificial-Recognition/blob/master/screenshots/a.png)
 
 ![alt tag](https://github.com/kurlp00/Constellation-Recognition-using-Artificial-Recognition/blob/master/screenshots/b.png)
